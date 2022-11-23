@@ -8,17 +8,6 @@
 
   <p align="center">
     Use Jinja to render an API and Flask to make a route to send an API
-    <br/>
-    <br/>
-    <a href="https://github.com/felipeholbi/API manipulation"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/felipeholbi/API manipulation">View Demo</a>
-    .
-    <a href="https://github.com/felipeholbi/API manipulation/issues">Report Bug</a>
-    .
-    <a href="https://github.com/felipeholbi/API manipulation/issues">Request Feature</a>
-  </p>
 </p>
 
 

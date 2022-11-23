@@ -68,15 +68,17 @@ https://github.com/felipeholbi/Lab_Flask_Jinja.git
 Running the comands in terminal
 
 ### Directory Test
-Execute in the command line **/hechosGatos.py**
-Note: If the file not running apply this command **chmod u+x ./hechosGatos.py** to change the privileges to may run the script
+- Execute in the command line **/hechosGatos.py**
+- Note: If the file not running apply this command **chmod u+x ./hechosGatos.py** to change the privileges to may run the script
 
-- Directory Flask
+![image](https://user-images.githubusercontent.com/98775024/203609827-4edbaa5a-c27b-41d5-9651-5b1d7eeaa4fe.png)
+
+### Directory Flask
 Execute in the command line Flask run
 Copy this URL in the browser http://127.0.0.1:5000 before to see the various constrution work input in the end of the URL a number 1 to 31 **http://127.0.0.1:5000/proyecto/1. You may also link to more resources.
 
-### Creating A Pull Request
 
+![image](https://user-images.githubusercontent.com/98775024/203609975-ae9ca973-9d91-4586-b352-ce9f3064368f.png)
 
 
 ## License

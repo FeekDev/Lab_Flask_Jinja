@@ -68,12 +68,12 @@ https://github.com/felipeholbi/Lab_Flask_Jinja.git
 Running the comands in terminal
 
 - Directory Test
-.Execute in the command line **/hechosGatos.py**
+##Execute## in the command line **/hechosGatos.py**
 Note: If the file not running apply this command **chmod u+x ./hechosGatos.py** to change the privileges to may run the script
 
 - Directory Flask
 Execute in the command line Flask run
-Copy this URL in the browser http://127.0.0.1:5000 before to see the various constrution work input in the end of the URL a number 1 to 31 **http://127.0.0.1:5000/proyecto/1**space. You may also link to more resources.
+Copy this URL in the browser http://127.0.0.1:5000 before to see the various constrution work input in the end of the URL a number 1 to 31 **http://127.0.0.1:5000/proyecto/1. You may also link to more resources.
 
 ### Creating A Pull Request
 

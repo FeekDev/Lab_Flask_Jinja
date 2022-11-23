@@ -87,4 +87,4 @@ Running the comands in terminal
 
 ## Authors
 
-* **Felipe Rios** - *Backend Developer* - (https://github.com/felipeholbi) - *Development all project*
+* **Felipe Rios** - *Backend Developer* - [GitHub](https://github.com/felipeholbi) - *Development all project*

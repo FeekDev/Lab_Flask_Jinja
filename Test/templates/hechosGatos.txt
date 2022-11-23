@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Hechos Gatos</title>
+</head>
+<body>
+    <ul>
+        {# iteracion sobre los hechos obtenidos #}
+        {%for hechos in coleccionHechos%}
+        <li>{{hechos}}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

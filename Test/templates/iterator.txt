@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <title>Digital Lab Test</title>
+</head>
+<body>
+    <ul>
+        {% for person in persons %}
+            <li>{{person.name}} {{person.age}}</li>
+        {% endfor %}
+        </ul>
+</body>
+</html>

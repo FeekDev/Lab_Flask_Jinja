@@ -1,0 +1,32 @@
+[
+    {
+        "Projects": [
+            [
+                [
+                    [
+                        "Remodelaci\u00f3n de ba\u00f1o"
+                    ]
+                ]
+            ]
+        ],
+        "Users": [
+            [
+                [
+                    1,
+                    "Prueba",
+                    "Akuro Administrator"
+                ],
+                [
+                    1,
+                    "Prueba",
+                    "Anon User"
+                ],
+                [
+                    3,
+                    "Usuario1",
+                    "Akuro Administrator"
+                ]
+            ]
+        ]
+    }
+]

@@ -67,7 +67,7 @@ https://github.com/felipeholbi/Lab_Flask_Jinja.git
 
 Running the comands in terminal
 
-- ##Directory Test
+### Directory Test
 Execute in the command line **/hechosGatos.py**
 Note: If the file not running apply this command **chmod u+x ./hechosGatos.py** to change the privileges to may run the script
 
